@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "slackbot"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}
